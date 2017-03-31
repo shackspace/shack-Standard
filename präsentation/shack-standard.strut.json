@@ -1,0 +1,267 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 185,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\"><font face=\"'Lato', sans-serif\">shack Standard<br>Power Plugs<br></font></div>",
+          "size": 144,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div align=\"center\">Endlösung für das<br>&nbsp;Steckernetzeile<br>Problem<br></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b>ZIEL</b>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/9jagBUz.jpg",
+          "type": "Image",
+          "x": 64,
+          "y": 72,
+          "scale": {
+            "x": 0.25490196078431365,
+            "y": 0.25490196078431365,
+            "width": 831.9999999999998,
+            "height": 623.9999999999998
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b>DEMO 1<br></b>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 358,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "Laptop Netzteil<br><div align=\"center\">vergessen<br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": true,
+      "active": true,
+      "x": 158,
+      "y": 386
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b>DEMO 2</b><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 174,
+          "y": 358,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "Kabelloser<br><div align=\"center\">Lötkolben<br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 458,
+      "y": 384
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 266,
+          "y": 9.759289817491531,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "TODOs",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 174,
+          "y": 155,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<ul><li>Aufbewahrungskonzept<br><br></li></ul><ul><li>Labels<br><br></li><li>Doku für Selbstbau<br><br></li><li>Doku für Verwendung<br><br></li><li><b>ein Logo</b><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 275,
+      "y": 587
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 237,
+        "y": 114,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 144,
+        "text": "<b>DEMO 1<br></b>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 25,
+        "y": 358,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 144,
+        "text": "Laptop Netzteil<br><div align=\"center\">vergessen<br></div>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 3,
+    "selected": true,
+    "active": true,
+    "x": 158,
+    "y": 386
+  },
+  "fileName": "shack-standard.strut",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 449,
+  "overviewY": 383.5
+}

@@ -1,0 +1,515 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 65,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\"><font face=\"'Lato', sans-serif\">shack Standard<br>Power Plugs<br></font></div>",
+          "size": 144,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 169,
+          "y": 590,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Felix Richter (makefu)<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 427,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "Update 1 (März 2017) <br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 179,
+      "y": 117
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 329,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div align=\"center\">Endlösung für das<br>&nbsp;Steckernetzeile<br>Problem<br></div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 367,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 144,
+          "text": "<b>ZIEL</b>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 437,
+      "y": 115
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/9jagBUz.jpg",
+          "type": "Image",
+          "x": 64,
+          "y": 72,
+          "scale": {
+            "x": 0.25490196078431365,
+            "y": 0.25490196078431365,
+            "width": 831.9999999999998,
+            "height": 623.9999999999998
+          },
+          "imageType": "JPG",
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 708,
+      "y": 115
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 167,
+          "y": 269,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<div align=\"center\"><b>TODOs</b><br></div><div align=\"center\"><b>vom letzten Mal</b><br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 938,
+      "y": 111
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 85,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Aufbewahrungskonzept (1)<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/eLhH8bG.jpg",
+          "type": "Image",
+          "x": 271,
+          "y": 108,
+          "scale": {
+            "x": 0.19730392156862736,
+            "y": 0.19730392156862736,
+            "width": 482.9999999999998,
+            "height": 643.9999999999997
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1197,
+      "y": 114
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 85,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Aufbewahrungskonzept (2)<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/qsv3ubS.jpg",
+          "type": "Image",
+          "x": 166,
+          "y": 119,
+          "scale": {
+            "x": 0.2830882352941177,
+            "y": 0.2830882352941177,
+            "width": 693.0000000000001,
+            "height": 924.0000000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1200,
+      "y": 281
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 257,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "Labels (ongoing)<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/TC58z2Y.jpg",
+          "type": "Image",
+          "x": 233,
+          "y": 128,
+          "scale": {
+            "x": 0.39075630252100835,
+            "y": 0.39075630252100835,
+            "width": 557.9999999999999,
+            "height": 628.3361344537814
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 961,
+      "y": 289
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/ZXrmDcX.jpg",
+          "type": "Image",
+          "x": 28,
+          "y": 118,
+          "scale": {
+            "x": 0.512035010940919,
+            "y": 0.512035010940919,
+            "width": 935.9999999999999,
+            "height": 597.5448577680525
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": -5000,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 954,
+      "y": 296
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/I82tG7t.png",
+          "type": "Image",
+          "x": 174,
+          "y": 158,
+          "scale": {
+            "x": 0.587673611111111,
+            "y": 0.587673611111111,
+            "width": 676.9999999999999,
+            "height": 587.6736111111111
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 411,
+          "y": 10,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "Logo",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 700,
+      "y": 288
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 207,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "mehr Adapter<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 96,
+          "y": 254,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<ul><li><font face=\"Lato\">Doppelnippeklemmen</font></li></ul><p><br></p><ul><li><font face=\"Lato\">Gender Changer of Doom</font><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 458,
+      "y": 303
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 300,
+          "y": 41,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "ToDo's Heute<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 206,
+          "y": 254,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<ul><li><font face=\"Lato\">Doku Selbstbau</font><br><br></li><li><font face=\"Lato\">Doku Verwendung<br></font></li></ul><p><br></p><ul><li>Mobile Tools<br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 193,
+      "y": 304
+    },
+    {
+      "components": [
+        {
+          "src": "https://ae01.alicdn.com/kf/HTB1MbdjOVXXXXbtXVXXq6xXFXXXH/New-3S-font-b-12V-b-font-30W-font-b-Hot-b-font-Melt-font-b.jpg",
+          "type": "Image",
+          "x": 139,
+          "y": 22,
+          "scale": {
+            "x": 0.90875,
+            "y": 0.90875,
+            "width": 727,
+            "height": 727
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": true,
+      "active": true,
+      "x": 193,
+      "y": 473
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 75,
+          "y": 239,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 121,
+          "text": "<div align=\"center\">Danke für die<br></div><div align=\"center\">Aufmerksamkeit<br></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 708,
+      "y": 455
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://ae01.alicdn.com/kf/HTB1MbdjOVXXXXbtXVXXq6xXFXXXH/New-3S-font-b-12V-b-font-30W-font-b-Hot-b-font-Melt-font-b.jpg",
+        "type": "Image",
+        "x": 139,
+        "y": 22,
+        "scale": {
+          "x": 0.90875,
+          "y": 0.90875,
+          "width": 727,
+          "height": 727
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 11,
+    "selected": true,
+    "active": true,
+    "x": 193,
+    "y": 473
+  },
+  "fileName": "shack-standard-update.strut",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 449,
+  "overviewY": 383.5
+}
