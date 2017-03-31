@@ -1,16 +1,16 @@
 # shackStandard
 
-This is the project page of the shack Standard for DC Power Plugs.
-
 ![logo](./logo/Logo_Shack_Standard_farbe.svg)
 
-Detailed Description in the [Shackspace Wiki shack_standard](http://shackspace.de/wiki/doku.php?id=project:shack_standard)
-[hackaday.io project page]( https://hackaday.io/project/19389/ )
+This is the project page of the shack Standard for DC Power Plugs.
+
+* Detailed Description in the [Shackspace Wiki shack_standard](http://shackspace.de/wiki/doku.php?id=project:shack_standard)
+* [hackaday.io project page]( https://hackaday.io/project/19389/ )
 
 ## Presentations
 
-* [Introduction: Thundertalk shackspace February]( https://shackspace.github.io/shackStandard/shack-standard_thundertalk-2017-02-18.html )
-* [Update #1: Thundertalk shackspace March]( https://shackspace.github.io/shackStandard/shack-standard_update-2017-03-25.html )
+* [Introduction: Thundertalk shackspace February]( https://shackspace.github.io/shack-Standard/shack-standard_thundertalk-2017-02-18.html )
+* [Update #1: Thundertalk shackspace March]( https://shackspace.github.io/shack-Standard/shack-standard_update-2017-03-25.html )
 
 ## CAD Notes
 
