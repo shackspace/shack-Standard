@@ -13,8 +13,9 @@ This is the project page of the shack Standard for DC Power Plugs.
 * [Update #1: Thundertalk shackspace March]( https://shackspace.github.io/shack-Standard/shack-standard_update-2017-03-25.html )
 
 ## CI & Naming
-Naming is always "shack Standard" or "shack-Standard", shack shall never be
-written with a capital S, Standard shall always be written with a capital S.
+Name of the project is either "shack Standard" or "shack-Standard" but never "shackStandard".
+
+shack shall never be written with a capital S [based on shackspace CI](http://shackspace.de/wiki/doku.php?id=project:logo_and_ci#name_ci), Standard should always be written with a capital S.
 
 ## CAD Notes
 
