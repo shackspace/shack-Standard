@@ -1,0 +1,1 @@
+Logo shack Standard Sachsenring inspired by [the Sachsenring logo.](https://de.wikipedia.org/wiki/Datei:Sachsenring_logo.svg).
